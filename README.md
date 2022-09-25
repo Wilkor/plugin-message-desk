@@ -1,1 +1,1 @@
-# plugin-message-desk
+# plugin-qrcode
